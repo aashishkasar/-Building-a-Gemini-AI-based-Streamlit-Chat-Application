@@ -43,5 +43,6 @@ Gemini Tutor is an open-source project, and contributions from the data science 
 **Conclusion:**
 Gemini Tutor represents a significant leap forward in the realm of data science education. With its specialized expertise, interactive interface, and personalized approach to learning, Gemini Tutor empowers users to unlock their full potential in data science. Join us on this journey as we continue to innovate and redefine the future of education with Gemini Tutor.
 
-**License:**
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+### License:
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+
